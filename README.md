@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Krishna, I am a Data Analytics expert with strong background in Computer Science and extensive experience in Data Warehousing, ETL, Data Visualization and Statistics. I'm working as a Data Analytics Manager at Western Digital. I am passionate about all things data and I am currently dabbling in GenAI!
+Hi! I'm Krishna, I am a Data Analytics expert with strong background in Computer Science and extensive experience in Data Warehousing, ETL, Data Visualization and Statistics. I'm working as a Data Analytics Manager at Western Digital. I am passionate about all things data and I am currently dabbling in GenAI in my free time!
 
 I have also worked extensively in the field of Enterprise Performance Management using the Oracle Hyperion Suite of Products. I loved writing, optimizing, and debugging Essbase Calculation Scripts and Hyperion Planning Business Rules. 
 
