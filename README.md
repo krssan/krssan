@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi! I'm Krishna, I am a Data Analytics expert with strong background in Computer Science and extensive experience in Data Warehousing, ETL, Data Visualization and Statistics. I'm working as a Data Analytics Manager at Western Digital. I am passionate about all things data and I am currently dabbling in the super interesting field of GenAI!
+Hi! I'm Krishna, I am a Data Analytics expert with strong background in Computer Science and extensive experience in Data Warehousing, ETL, Data Visualization and Statistics. I'm working as a Data Analytics Manager at Western Digital. I am passionate about all things data and I am currently dabbling in GenAI!
+
+I have also worked extensively in the field of Enterprise Performance Management using the Oracle Hyperion Suite of Products. I loved writing, optimizing, and debugging Essbase Calculation Scripts and Hyperion Planning Business Rules. 
+
+I have a Bachelor's Degree in Computer Science from Amrita Vishwa Vidyapeetham and in 2019 I graduated from Carnegie Mellon Univerity's Heinz College with a Masters in Information Systems Management (MISM). 
 
 # 💻 Tech Stack:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0.svg?style=for-the-badge&logo=Alteryx&logoColor=white) <br>
